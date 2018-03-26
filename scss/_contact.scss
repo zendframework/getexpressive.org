@@ -1,0 +1,58 @@
+// Styling for the download section
+section.contact {
+    text-align: center;
+
+    h2 {
+        margin-top: 0;
+        margin-bottom: 25px;
+        i {
+            color: $brand-google-plus;
+        }
+    }
+    ul.list-social {
+        margin-bottom: 0;
+        li {
+            a {
+                font-size: 40px;
+                line-height: 80px;
+                display: block;
+                width: 80px;
+                height: 80px;
+                color: white;
+                border-radius: 100%;
+            }
+            &.social-discourse {
+                a {
+                    background-color: $brand-discourse;
+                    &:hover {
+                        background-color: darken($brand-discourse, 5%);
+                    }
+                }
+            }
+            &.social-slack {
+                a {
+                    background-color: $brand-slack;
+                    &:hover {
+                        background-color: darken($brand-slack, 5%);
+                    }
+                }
+            }
+            &.social-github {
+                a {
+                    background-color: $brand-github;
+                    &:hover {
+                        background-color: darken($brand-github, 5%);
+                    }
+                }
+            }
+            &.social-twitter {
+                a {
+                    background-color: $brand-twitter;
+                    &:hover {
+                        background-color: darken($brand-twitter, 5%);
+                    }
+                }
+            }
+        }
+    }
+}

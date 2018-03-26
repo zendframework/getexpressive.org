@@ -1,0 +1,1338 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 25,
+  "duration": 53.451252,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.067913,
+      "\u001b]0;enrico: ~\u0007\u001b[01;32menrico\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.823161,
+      "c"
+    ],
+    [
+      0.119708,
+      "o"
+    ],
+    [
+      0.120049,
+      "m"
+    ],
+    [
+      0.18809,
+      "p"
+    ],
+    [
+      0.061918,
+      "o"
+    ],
+    [
+      0.100038,
+      "s"
+    ],
+    [
+      0.102101,
+      "e"
+    ],
+    [
+      0.178124,
+      "r"
+    ],
+    [
+      0.099776,
+      " "
+    ],
+    [
+      0.454227,
+      "c"
+    ],
+    [
+      0.215736,
+      "r"
+    ],
+    [
+      0.178291,
+      "e"
+    ],
+    [
+      0.151513,
+      "a"
+    ],
+    [
+      0.100316,
+      "t"
+    ],
+    [
+      0.102072,
+      "e"
+    ],
+    [
+      0.394047,
+      "-"
+    ],
+    [
+      0.226072,
+      "p"
+    ],
+    [
+      0.101583,
+      "r"
+    ],
+    [
+      0.100227,
+      "o"
+    ],
+    [
+      0.181988,
+      "j"
+    ],
+    [
+      0.059879,
+      "e"
+    ],
+    [
+      0.228213,
+      "c"
+    ],
+    [
+      0.198007,
+      "t"
+    ],
+    [
+      0.099784,
+      " "
+    ],
+    [
+      0.150193,
+      "z"
+    ],
+    [
+      0.176061,
+      "e"
+    ],
+    [
+      0.060052,
+      "n"
+    ],
+    [
+      0.137603,
+      "d"
+    ],
+    [
+      0.644068,
+      "f"
+    ],
+    [
+      0.16614,
+      "r"
+    ],
+    [
+      0.080144,
+      "a"
+    ],
+    [
+      0.199848,
+      "m"
+    ],
+    [
+      0.042018,
+      "e"
+    ],
+    [
+      0.646636,
+      "w"
+    ],
+    [
+      0.099162,
+      "o"
+    ],
+    [
+      0.12583,
+      "r"
+    ],
+    [
+      0.080286,
+      "k"
+    ],
+    [
+      0.668012,
+      "/"
+    ],
+    [
+      0.279975,
+      "z"
+    ],
+    [
+      0.176043,
+      "e"
+    ],
+    [
+      0.099688,
+      "n"
+    ],
+    [
+      0.082426,
+      "d"
+    ],
+    [
+      0.174113,
+      "-"
+    ],
+    [
+      0.163712,
+      "e"
+    ],
+    [
+      0.200115,
+      "x"
+    ],
+    [
+      0.102229,
+      "p"
+    ],
+    [
+      0.099838,
+      "r"
+    ],
+    [
+      0.07992,
+      "e"
+    ],
+    [
+      0.233977,
+      "s"
+    ],
+    [
+      0.138156,
+      "s"
+    ],
+    [
+      0.129583,
+      "i"
+    ],
+    [
+      0.101973,
+      "v"
+    ],
+    [
+      0.080256,
+      "e"
+    ],
+    [
+      0.226068,
+      "-"
+    ],
+    [
+      0.677225,
+      "s"
+    ],
+    [
+      0.099751,
+      "k"
+    ],
+    [
+      0.102314,
+      "e"
+    ],
+    [
+      0.134498,
+      "l"
+    ],
+    [
+      0.080033,
+      "e"
+    ],
+    [
+      0.184166,
+      "t"
+    ],
+    [
+      0.059922,
+      "o"
+    ],
+    [
+      0.080026,
+      "n"
+    ],
+    [
+      0.271904,
+      "\r\n"
+    ],
+    [
+      0.666801,
+      "\u001b[32mInstalling zendframework/zend-expressive-skeleton (3.0.1)\u001b[39m\r\n"
+    ],
+    [
+      0.02346,
+      "  - Installing \u001b[32mzendframework/zend-expressive-skeleton\u001b[39m (\u001b[33m3.0.1\u001b[39m): "
+    ],
+    [
+      0.000752,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.120723,
+      "\u001b[32mCreated project in /home/enrico/zend-expressive-skeleton\u001b[39m\r\n"
+    ],
+    [
+      1.219802,
+      "> ExpressiveInstaller\\OptionalPackages::install\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[32mSetting up optional packages\u001b[39m\r\n"
+    ],
+    [
+      1.4e-05,
+      "\u001b[32mSetup data and cache dir\u001b[39m\r\n"
+    ],
+    [
+      1.2e-05,
+      "\u001b[32mRemoving installer development dependencies\u001b[39m\r\n"
+    ],
+    [
+      0.000264,
+      "\r\n  \u001b[30;46mWhat type of installation would you like?\u001b[39;49m\r\n  [\u001b[33m1\u001b[39m] Minimal (no default middleware, templates, or assets; configuration only)\r\n  [\u001b[33m2\u001b[39m] Flat (flat source code structure; default selection)\r\n  [\u001b[33m3\u001b[39m] Modular (modular source code structure; recommended)\r\n"
+    ],
+    [
+      2.1e-05,
+      "  Make your selection \u001b[33m(2)\u001b[39m: "
+    ],
+    [
+      1.461854,
+      "\r\n"
+    ],
+    [
+      0.000573,
+      "  - Copying \u001b[32msrc/App/ConfigProvider.php\u001b[39m\r\n"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  \u001b[30;46mWhich container do you want to use for dependency injection?\u001b[39;49m\r\n  [\u001b[33m1\u001b[39m] Aura.Di\r\n"
+    ],
+    [
+      5.1e-05,
+      "  [\u001b[33m2\u001b[39m] Pimple\r\n  [\u001b[33m3\u001b[39m] zend-servicemanager\r\n  [\u001b[33m4\u001b[39m] Auryn\r\n"
+    ],
+    [
+      3.5e-05,
+      "  [\u001b[33m5\u001b[39m] Symfony DI Container\r\n  Make your selection or type a composer package name and version \u001b[33m(zend-servicemanager)\u001b[39m: "
+    ],
+    [
+      1.579083,
+      "\r\n"
+    ],
+    [
+      8e-05,
+      "  - Adding package \u001b[32mzendframework/zend-servicemanager\u001b[39m (\u001b[33m^3.3\u001b[39m)\r\n"
+    ],
+    [
+      0.000114,
+      "  - Copying \u001b[32mconfig/container.php\u001b[39m\r\n"
+    ],
+    [
+      0.001432,
+      "\r\n  \u001b[30;46mWhich router do you want to use?\u001b[39;49m\r\n"
+    ],
+    [
+      5.3e-05,
+      "  [\u001b[33m1\u001b[39m] Aura.Router\r\n  [\u001b[33m2\u001b[39m] FastRoute\r\n"
+    ],
+    [
+      3e-05,
+      "  [\u001b[33m3\u001b[39m] zend-router\r\n"
+    ],
+    [
+      6.8e-05,
+      "  Make your selection or type a composer package name and version \u001b[33m(FastRoute)\u001b[39m: "
+    ],
+    [
+      1.388102,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "  - Adding package \u001b[32mzendframework/zend-expressive-fastroute\u001b[39m (\u001b[33m^3.0\u001b[39m)\r\n"
+    ],
+    [
+      4e-05,
+      "  - Whitelist package \u001b[32mzendframework/zend-expressive-fastroute\u001b[39m\r\n"
+    ],
+    [
+      7e-05,
+      "  - Copying \u001b[32mconfig/routes.php\u001b[39m\r\n"
+    ],
+    [
+      0.000472,
+      "\r\n  \u001b[30;46mWhich template engine do you want to use?\u001b[39;49m\r\n  [\u001b[33m1\u001b[39m] Plates\r\n  [\u001b[33m2\u001b[39m] Twig\r\n"
+    ],
+    [
+      4e-05,
+      "  [\u001b[33m3\u001b[39m] zend-view \u001b[33minstalls zend-servicemanager\u001b[39m\r\n"
+    ],
+    [
+      2.5e-05,
+      "  [\u001b[33mn\u001b[39m] None of the above\r\n"
+    ],
+    [
+      2.6e-05,
+      "  Make your selection or type a composer package name and version \u001b[33m(n)\u001b[39m: "
+    ],
+    [
+      1.262895,
+      "\r\n"
+    ],
+    [
+      0.000813,
+      "\r\n  \u001b[30;46mWhich error handler do you want to use during development?\u001b[39;49m\r\n  [\u001b[33m1\u001b[39m] Whoops\r\n  [\u001b[33mn\u001b[39m] None of the above\r\n  Make your selection or type a composer package name and version \u001b[33m(Whoops)\u001b[39m: "
+    ],
+    [
+      1.439503,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "  - Adding package \u001b[32mfilp/whoops\u001b[39m (\u001b[33m^2.1.12\u001b[39m)\r\n"
+    ],
+    [
+      5.5e-05,
+      "  - Copying \u001b[32mconfig/autoload/development.local.php.dist\u001b[39m\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b[32mRemove installer\u001b[39m\r\n"
+    ],
+    [
+      0.000202,
+      "\u001b[32mRemoving composer.lock from .gitignore\u001b[39m\r\n"
+    ],
+    [
+      0.000224,
+      "\u001b[32mRemoving Expressive installer classes, configuration, tests and docs\u001b[39m\r\n"
+    ],
+    [
+      0.003113,
+      "\u001b[32mLoading composer repositories with package information\u001b[39m\r\n"
+    ],
+    [
+      0.135318,
+      "\u001b[32mUpdating dependencies (including require-dev)\u001b[39m\r\n"
+    ],
+    [
+      2.180624,
+      "\u001b[32mPackage operations: 60 installs, 0 updates, 0 removals\u001b[39m\r\n"
+    ],
+    [
+      0.000256,
+      "  - Installing \u001b[32mzendframework/zend-component-installer\u001b[39m (\u001b[33m2.1.0\u001b[39m): "
+    ],
+    [
+      0.000283,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.016529,
+      "  - Installing \u001b[32mocramius/package-versions\u001b[39m (\u001b[33m1.3.0\u001b[39m): "
+    ],
+    [
+      0.00023,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.01052,
+      "  - Installing \u001b[32mpsr/http-message\u001b[39m (\u001b[33m1.0.1\u001b[39m): "
+    ],
+    [
+      0.000272,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010908,
+      "  - Installing \u001b[32mpsr/http-server-handler\u001b[39m (\u001b[33m1.0.0\u001b[39m): "
+    ],
+    [
+      0.000229,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.008472,
+      "  - Installing \u001b[32mpsr/http-server-middleware\u001b[39m (\u001b[33m1.0.0\u001b[39m): "
+    ],
+    [
+      0.000278,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.009151,
+      "  - Installing \u001b[32mpsr/container\u001b[39m (\u001b[33m1.0.0\u001b[39m): "
+    ],
+    [
+      0.00036,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010511,
+      "  - Installing \u001b[32mfig/http-message-util\u001b[39m (\u001b[33m1.1.2\u001b[39m): "
+    ],
+    [
+      0.000218,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.009475,
+      "  - Installing \u001b[32mzendframework/zend-expressive-router\u001b[39m (\u001b[33m3.0.1\u001b[39m): "
+    ],
+    [
+      0.000217,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.014445,
+      "  - Installing \u001b[32mzendframework/zend-expressive-helpers\u001b[39m (\u001b[33m5.0.0\u001b[39m): "
+    ],
+    [
+      0.00028,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012636,
+      "  - Installing \u001b[32msquizlabs/php_codesniffer\u001b[39m (\u001b[33m2.9.1\u001b[39m): "
+    ],
+    [
+      0.000759,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.048965,
+      "  - Installing \u001b[32mzendframework/zend-stdlib\u001b[39m (\u001b[33m3.1.0\u001b[39m): "
+    ],
+    [
+      0.000265,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.015023,
+      "  - Installing \u001b[32mzfcampus/zf-composer-autoloading\u001b[39m (\u001b[33m2.0.0\u001b[39m): "
+    ],
+    [
+      0.000236,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.014194,
+      "  - Installing \u001b[32mzendframework/zend-escaper\u001b[39m (\u001b[33m2.5.2\u001b[39m): "
+    ],
+    [
+      0.000226,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.014153,
+      "  - Installing \u001b[32mzendframework/zend-stratigility\u001b[39m (\u001b[33m3.0.0\u001b[39m): "
+    ],
+    [
+      0.000286,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012293,
+      "  - Installing \u001b[32mzendframework/zend-diactoros\u001b[39m (\u001b[33m1.7.1\u001b[39m): "
+    ],
+    [
+      0.000324,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.013337,
+      "  - Installing \u001b[32mzendframework/zend-httphandlerrunner\u001b[39m (\u001b[33m1.0.1\u001b[39m): "
+    ],
+    [
+      0.000365,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.00974,
+      "\u001b[32m    Installing Zend\\HttpHandlerRunner\\ConfigProvider from package zendframework/zend-httphandlerrunner\u001b[39m\r\n"
+    ],
+    [
+      0.001273,
+      "  - Installing \u001b[32mzendframework/zend-expressive-template\u001b[39m (\u001b[33m2.0.0\u001b[39m): "
+    ],
+    [
+      0.000121,
+      "Loading from cache"
+    ],
+    [
+      1.9e-05,
+      "\r\n"
+    ],
+    [
+      0.012046,
+      "  - Installing \u001b[32mzendframework/zend-expressive\u001b[39m (\u001b[33m3.0.1\u001b[39m): "
+    ],
+    [
+      0.000212,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012367,
+      "  - Installing \u001b[32mzendframework/zend-eventmanager\u001b[39m (\u001b[33m3.2.0\u001b[39m): "
+    ],
+    [
+      0.000206,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010485,
+      "  - Installing \u001b[32mzendframework/zend-code\u001b[39m (\u001b[33m3.3.0\u001b[39m): "
+    ],
+    [
+      0.000335,
+      "Loading from cache"
+    ],
+    [
+      2e-05,
+      "\r\n"
+    ],
+    [
+      0.020432,
+      "  - Installing \u001b[32msymfony/polyfill-mbstring\u001b[39m (\u001b[33mv1.7.0\u001b[39m): "
+    ],
+    [
+      0.00033,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012789,
+      "  - Installing \u001b[32msymfony/console\u001b[39m (\u001b[33mv4.0.6\u001b[39m): "
+    ],
+    [
+      0.000479,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.03283,
+      "  - Installing \u001b[32mpsr/log\u001b[39m (\u001b[33m1.0.2\u001b[39m): "
+    ],
+    [
+      0.000255,
+      "Loading from cache"
+    ],
+    [
+      3.4e-05,
+      "\r\n"
+    ],
+    [
+      0.011159,
+      "  - Installing \u001b[32mzendframework/zend-expressive-tooling\u001b[39m (\u001b[33m1.0.0\u001b[39m): "
+    ],
+    [
+      0.000326,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.013727,
+      "  - Installing \u001b[32mzfcampus/zf-development-mode\u001b[39m (\u001b[33m3.1.0\u001b[39m): "
+    ],
+    [
+      0.000257,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011461,
+      "  - Installing \u001b[32mzendframework/zend-config-aggregator\u001b[39m (\u001b[33m1.1.0\u001b[39m): "
+    ],
+    [
+      0.000252,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011367,
+      "  - Installing \u001b[32mcontainer-interop/container-interop\u001b[39m (\u001b[33m1.2.0\u001b[39m): "
+    ],
+    [
+      0.000412,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012929,
+      "  - Installing \u001b[32mzendframework/zend-servicemanager\u001b[39m (\u001b[33m3.3.2\u001b[39m): "
+    ],
+    [
+      0.000334,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.014709,
+      "  - Installing \u001b[32mnikic/fast-route\u001b[39m (\u001b[33mv1.3.0\u001b[39m): "
+    ],
+    [
+      0.000252,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.013576,
+      "  - Installing \u001b[32mzendframework/zend-expressive-fastroute\u001b[39m (\u001b[33m3.0.1\u001b[39m): "
+    ],
+    [
+      0.000226,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.009418,
+      "\u001b[32m    Installing Zend\\Expressive\\Router\\FastRouteRouter\\ConfigProvider from package zendframework/zend-expressive-fastroute\u001b[39m\r\n"
+    ],
+    [
+      0.001509,
+      "  - Installing \u001b[32msebastian/version\u001b[39m (\u001b[33m2.0.1\u001b[39m): "
+    ],
+    [
+      0.000253,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010439,
+      "  - Installing \u001b[32msebastian/resource-operations\u001b[39m (\u001b[33m1.0.0\u001b[39m): "
+    ],
+    [
+      0.000305,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010936,
+      "  - Installing \u001b[32msebastian/recursion-context\u001b[39m (\u001b[33m3.0.0\u001b[39m): "
+    ],
+    [
+      0.0003,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011489,
+      "  - Installing \u001b[32msebastian/object-reflector\u001b[39m (\u001b[33m1.1.1\u001b[39m): "
+    ],
+    [
+      0.000223,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011197,
+      "  - Installing \u001b[32msebastian/object-enumerator\u001b[39m (\u001b[33m3.0.3\u001b[39m): "
+    ],
+    [
+      0.000191,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.013627,
+      "  - Installing \u001b[32msebastian/global-state\u001b[39m (\u001b[33m2.0.0\u001b[39m): "
+    ],
+    [
+      0.000193,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011354,
+      "  - Installing \u001b[32msebastian/exporter\u001b[39m (\u001b[33m3.1.0\u001b[39m): "
+    ],
+    [
+      0.000237,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010999,
+      "  - Installing \u001b[32msebastian/environment\u001b[39m (\u001b[33m3.1.0\u001b[39m): "
+    ],
+    [
+      0.000358,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011107,
+      "  - Installing \u001b[32msebastian/diff\u001b[39m (\u001b[33m3.0.0\u001b[39m): "
+    ],
+    [
+      0.000232,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.015156,
+      "  - Installing \u001b[32msebastian/comparator\u001b[39m (\u001b[33m2.1.3\u001b[39m): "
+    ],
+    [
+      0.000218,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.013627,
+      "  - Installing \u001b[32mdoctrine/instantiator\u001b[39m (\u001b[33m1.1.0\u001b[39m): "
+    ],
+    [
+      0.000198,
+      "Loading from cache"
+    ],
+    [
+      1.8e-05,
+      "\r\n"
+    ],
+    [
+      0.014019,
+      "  - Installing \u001b[32mphpunit/php-text-template\u001b[39m (\u001b[33m1.2.1\u001b[39m): "
+    ],
+    [
+      0.000179,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010989,
+      "  - Installing \u001b[32mphpunit/phpunit-mock-objects\u001b[39m (\u001b[33m6.0.1\u001b[39m): "
+    ],
+    [
+      0.000371,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.023572,
+      "  - Installing \u001b[32mphpunit/php-timer\u001b[39m (\u001b[33m2.0.0\u001b[39m): "
+    ],
+    [
+      0.000317,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011049,
+      "  - Installing \u001b[32mphpunit/php-file-iterator\u001b[39m (\u001b[33m1.4.5\u001b[39m): "
+    ],
+    [
+      0.000214,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010803,
+      "  - Installing \u001b[32mtheseer/tokenizer\u001b[39m (\u001b[33m1.1.0\u001b[39m): "
+    ],
+    [
+      0.000227,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012732,
+      "  - Installing \u001b[32msebastian/code-unit-reverse-lookup\u001b[39m (\u001b[33m1.0.1\u001b[39m): "
+    ],
+    [
+      0.000241,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.010995,
+      "  - Installing \u001b[32mphpunit/php-token-stream\u001b[39m (\u001b[33m3.0.0\u001b[39m): "
+    ],
+    [
+      0.0002,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.013381,
+      "  - Installing \u001b[32mphpunit/php-code-coverage\u001b[39m (\u001b[33m6.0.1\u001b[39m): "
+    ],
+    [
+      0.000658,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.032021,
+      "  - Installing \u001b[32mwebmozart/assert\u001b[39m (\u001b[33m1.3.0\u001b[39m): "
+    ],
+    [
+      0.000278,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.011161,
+      "  - Installing \u001b[32mphpdocumentor/reflection-common\u001b[39m (\u001b[33m1.0.1\u001b[39m): "
+    ],
+    [
+      0.000403,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012495,
+      "  - Installing \u001b[32mphpdocumentor/type-resolver\u001b[39m (\u001b[33m0.4.0\u001b[39m): "
+    ],
+    [
+      0.000239,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.014339,
+      "  - Installing \u001b[32mphpdocumentor/reflection-docblock\u001b[39m (\u001b[33m4.3.0\u001b[39m): "
+    ],
+    [
+      0.000294,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.015356,
+      "  - Installing \u001b[32mphpspec/prophecy\u001b[39m (\u001b[33m1.7.5\u001b[39m): "
+    ],
+    [
+      0.000256,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.019417,
+      "  - Installing \u001b[32mphar-io/version\u001b[39m (\u001b[33m1.0.1\u001b[39m): "
+    ],
+    [
+      0.00027,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.012465,
+      "  - Installing \u001b[32mphar-io/manifest\u001b[39m (\u001b[33m1.0.1\u001b[39m): "
+    ],
+    [
+      0.000294,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.020043,
+      "  - Installing \u001b[32mmyclabs/deep-copy\u001b[39m (\u001b[33m1.7.0\u001b[39m): "
+    ],
+    [
+      0.000389,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.018627,
+      "  - Installing \u001b[32mphpunit/phpunit\u001b[39m (\u001b[33m7.0.2\u001b[39m): "
+    ],
+    [
+      0.000779,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.051546,
+      "  - Installing \u001b[32mfilp/whoops\u001b[39m (\u001b[33m2.1.14\u001b[39m): "
+    ],
+    [
+      0.000372,
+      "Loading from cache\r\n"
+    ],
+    [
+      0.156322,
+      "zendframework/zend-expressive-router suggests installing zendframework/zend-expressive-aurarouter (^3.0 to use the Aura.Router routing adapter)\r\nzendframework/zend-expressive-router suggests installing zendframework/zend-expressive-zendrouter (^3.0 to use the zend-router routing adapter)\r\nzendframework/zend-expressive-template suggests installing zendframework/zend-expressive-platesrenderer (^2.0 to use the Plates template renderer)\r\n"
+    ],
+    [
+      4.1e-05,
+      "zendframework/zend-expressive-template suggests installing zendframework/zend-expressive-twigrenderer (^2.0 to use the Twig template renderer)\r\nzendframework/zend-expressive-template suggests installing zendframework/zend-expressive-zendviewrenderer (^2.0 to use the zend-view PhpRenderer template renderer)\r\nzendframework/zend-expressive suggests installing zendframework/zend-auradi-config (^1.0 to use Aura.Di dependency injection container)\r\nzendframework/zend-expressive suggests installing zendframework/zend-pimple-config (^1.0 to use Pimple for dependency injection container)\r\n"
+    ],
+    [
+      2e-05,
+      "zendframework/zend-code suggests installing doctrine/annotations (Doctrine\\Common\\Annotations >=1.0 for annotation features)\r\n"
+    ],
+    [
+      1.6e-05,
+      "symfony/console suggests installing symfony/event-dispatcher ()\r\n"
+    ],
+    [
+      1.5e-05,
+      "symfony/console suggests installing symfony/lock ()\r\nsymfony/console suggests installing symfony/process ()\r\n"
+    ],
+    [
+      5.1e-05,
+      "zendframework/zend-config-aggregator suggests installing zendframework/zend-config (Allows loading configuration from XML, INI, YAML, and JSON files)\r\nzendframework/zend-servicemanager suggests installing ocramius/proxy-manager (ProxyManager 1.* to handle lazy initialization of services)\r\nsebastian/global-state suggests installing ext-uopz (*)\r\n"
+    ],
+    [
+      2e-05,
+      "phpunit/phpunit-mock-objects suggests installing ext-soap (*)\r\nphpunit/php-code-coverage suggests installing ext-xdebug (^2.6.0)\r\nphpunit/phpunit suggests installing phpunit/php-invoker (^2.0)\r\nphpunit/phpunit suggests installing ext-xdebug (*)\r\n"
+    ],
+    [
+      4e-05,
+      "filp/whoops suggests installing symfony/var-dumper (Pretty print complex values better with var-dumper available)\r\nfilp/whoops suggests installing whoops/soap (Formats errors as SOAP responses)\r\n"
+    ],
+    [
+      0.003783,
+      "\u001b[32mWriting lock file\u001b[39m\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[32mGenerating autoload files\u001b[39m\r\n"
+    ],
+    [
+      0.090926,
+      "\u001b[32mocramius/package-versions:\u001b[39m  Generating version class...\r\n"
+    ],
+    [
+      7.8e-05,
+      "\u001b[32mocramius/package-versions:\u001b[39m ...done generating version class\r\n"
+    ],
+    [
+      0.340742,
+      "> zf-development-mode enable\r\n"
+    ],
+    [
+      0.031373,
+      "You are now in development mode.\r\n"
+    ],
+    [
+      0.022098,
+      "\u001b]0;enrico: ~\u0007\u001b[01;32menrico\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.812865,
+      "c"
+    ],
+    [
+      0.121692,
+      "l"
+    ],
+    [
+      0.130162,
+      "e"
+    ],
+    [
+      0.170314,
+      "a"
+    ],
+    [
+      0.079722,
+      "r"
+    ],
+    [
+      0.152163,
+      "\r\n"
+    ],
+    [
+      0.001535,
+      "\u001b[3J\u001b[H\u001b[2J"
+    ],
+    [
+      0.00055,
+      "\u001b]0;enrico: ~\u0007\u001b[01;32menrico\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.527628,
+      "c"
+    ],
+    [
+      0.060253,
+      "d"
+    ],
+    [
+      0.332074,
+      " "
+    ],
+    [
+      0.167685,
+      "z"
+    ],
+    [
+      0.172203,
+      "e"
+    ],
+    [
+      0.099729,
+      "n"
+    ],
+    [
+      0.122155,
+      "d"
+    ],
+    [
+      0.241825,
+      "-expressive-skeleton/"
+    ],
+    [
+      1.022429,
+      "\r\n"
+    ],
+    [
+      0.000819,
+      "\u001b]0;enrico: ~/zend-expressive-skeleton\u0007\u001b[01;32menrico\u001b[00m:\u001b[01;34m~/zend-expressive-skeleton\u001b[00m$ "
+    ],
+    [
+      0.801148,
+      "c"
+    ],
+    [
+      0.099658,
+      "o"
+    ],
+    [
+      0.079936,
+      "m"
+    ],
+    [
+      0.190146,
+      "p"
+    ],
+    [
+      0.060137,
+      "o"
+    ],
+    [
+      0.07972,
+      "s"
+    ],
+    [
+      0.349857,
+      "e"
+    ],
+    [
+      0.232068,
+      "r"
+    ],
+    [
+      0.298201,
+      " "
+    ],
+    [
+      0.164031,
+      "s"
+    ],
+    [
+      0.121365,
+      "e"
+    ],
+    [
+      0.21838,
+      "r"
+    ],
+    [
+      0.195935,
+      "v"
+    ],
+    [
+      0.108332,
+      "e"
+    ],
+    [
+      0.551879,
+      "\r\n"
+    ],
+    [
+      0.224207,
+      "> php -S 0.0.0.0:8080 -t public/\r\n"
+    ],
+    [
+      2.227706,
+      "#"
+    ],
+    [
+      0.431972,
+      " "
+    ],
+    [
+      0.4999,
+      "Y"
+    ],
+    [
+      0.283913,
+      "o"
+    ],
+    [
+      0.119695,
+      "u"
+    ],
+    [
+      0.08243,
+      " "
+    ],
+    [
+      0.19591,
+      "c"
+    ],
+    [
+      0.120047,
+      "a"
+    ],
+    [
+      0.060163,
+      "n"
+    ],
+    [
+      0.227894,
+      " "
+    ],
+    [
+      0.310336,
+      "o"
+    ],
+    [
+      0.171654,
+      "p"
+    ],
+    [
+      0.101882,
+      "e"
+    ],
+    [
+      0.120152,
+      "n"
+    ],
+    [
+      0.07997,
+      " "
+    ],
+    [
+      0.994079,
+      "y"
+    ],
+    [
+      0.099817,
+      "o"
+    ],
+    [
+      0.060227,
+      "u"
+    ],
+    [
+      0.081932,
+      "r"
+    ],
+    [
+      0.099816,
+      " "
+    ],
+    [
+      0.20212,
+      "b"
+    ],
+    [
+      0.122015,
+      "r"
+    ],
+    [
+      0.138275,
+      "o"
+    ],
+    [
+      0.346018,
+      "w"
+    ],
+    [
+      0.191723,
+      "s"
+    ],
+    [
+      0.214128,
+      "e"
+    ],
+    [
+      0.159856,
+      "r"
+    ],
+    [
+      0.121967,
+      " "
+    ],
+    [
+      0.206093,
+      "a"
+    ],
+    [
+      0.167927,
+      "t"
+    ],
+    [
+      0.119953,
+      " "
+    ],
+    [
+      0.536193,
+      "h"
+    ],
+    [
+      0.079948,
+      "t"
+    ],
+    [
+      0.137915,
+      "t"
+    ],
+    [
+      0.099964,
+      "p"
+    ],
+    [
+      0.25829,
+      ":"
+    ],
+    [
+      0.659969,
+      "/"
+    ],
+    [
+      0.11975,
+      "/"
+    ],
+    [
+      0.638187,
+      "l"
+    ],
+    [
+      0.165228,
+      "o"
+    ],
+    [
+      0.100419,
+      "c"
+    ],
+    [
+      0.131902,
+      "a"
+    ],
+    [
+      0.153769,
+      "l"
+    ],
+    [
+      0.236315,
+      "h"
+    ],
+    [
+      0.121767,
+      "o"
+    ],
+    [
+      0.137954,
+      "s"
+    ],
+    [
+      0.160093,
+      "t"
+    ],
+    [
+      0.327737,
+      ":"
+    ],
+    [
+      0.556208,
+      "8"
+    ],
+    [
+      0.100034,
+      "0"
+    ],
+    [
+      0.386254,
+      "8"
+    ],
+    [
+      0.059732,
+      "0"
+    ]
+  ]
+}

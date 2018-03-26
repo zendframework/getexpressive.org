@@ -1,0 +1,22 @@
+// Styling for the footer
+footer {
+    padding: 25px 0;
+    text-align: center;
+    color: black;
+    background: white;
+    p {
+        font-size: 14px;
+        margin: 0;
+    }
+
+    a {
+        font-size: 14px;
+        color: #278dc1;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            text-decoration: none;
+        }
+    }
+}
