@@ -1,0 +1,35 @@
+version: 0.0
+os: linux
+files:
+  - source: /index.html
+    destination: /var/vhosts/getexpressive.org/htdocs/index.html
+  - source: /171540.json
+    destination: /var/vhosts/getexpressive.org/htdocs/171540.json
+  - source: /css
+    destination: /var/vhosts/getexpressive.org/htdocs/css
+  - source: /js
+    destination: /var/vhosts/getexpressive.org/htdocs/js
+  - source: /vendor
+    destination: /var/vhosts/getexpressive.org/htdocs/vendor
+  - source: /img
+    destination: /var/vhosts/getexpressive.org/htdocs/img
+permissions:
+    - object: /var/vhosts//getexpressive.org/htdocs
+      pattern: "**"
+      owner: www-data
+      group: www-data
+      mode: 4750
+      type:
+        - directory
+    - object: /var/vhosts//getexpressive.org/htdocs
+      pattern: "**"
+      owner: www-data
+      group: www-data
+      mode: 640
+      type:
+        - file
+hooks:
+  BeforeInstall:
+    - location: .aws/before-install.sh
+      timeout: 300
+      runas: root
