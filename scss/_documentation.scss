@@ -1,0 +1,34 @@
+// Styling for the features section
+section.documentation {
+    .section-heading {
+        margin-bottom: 100px;
+        h2 {
+            margin-top: 0;
+        }
+    }
+    .documentation-item {
+        max-width: 325px;
+        margin: 0 auto;
+        text-align: center;
+        a {
+          color: inherit;
+          text-decoration: none;
+        }
+        h3 {
+            font-size: 30px;
+            color: white;
+        }
+        i {
+            font-size: 240px;
+            display: block;
+            margin-bottom: 15px;
+            background: -webkit-linear-gradient(to left, $theme-tertiary, $theme-tertiary);
+            background: linear-gradient(to left, $theme-tertiary, $theme-tertiary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        img {
+          height: 240px;
+        }
+    }
+  }

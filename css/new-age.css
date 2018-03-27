@@ -362,6 +362,44 @@ section.features .feature-item i {
   -webkit-text-fill-color: transparent;
 }
 
+section.documentation .section-heading {
+  margin-bottom: 100px;
+}
+
+section.documentation .section-heading h2 {
+  margin-top: 0;
+}
+
+section.documentation .documentation-item {
+  max-width: 325px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+section.documentation .documentation-item a {
+  color: inherit;
+  text-decoration: none;
+}
+
+section.documentation .documentation-item h3 {
+  font-size: 30px;
+  color: white;
+}
+
+section.documentation .documentation-item i {
+  font-size: 240px;
+  display: block;
+  margin-bottom: 15px;
+  background: -webkit-linear-gradient(to left, #111111, #111111);
+  background: linear-gradient(to left, #111111, #111111);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+section.documentation .documentation-item img {
+  height: 240px;
+}
+
 section.cta {
   position: relative;
   padding: 250px 0;
