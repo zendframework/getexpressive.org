@@ -14,14 +14,14 @@ files:
   - source: /img
     destination: /var/vhosts/getexpressive.org/htdocs/img
 permissions:
-    - object: /var/vhosts//getexpressive.org/htdocs
+    - object: /var/vhosts/getexpressive.org/htdocs
       pattern: "**"
       owner: www-data
       group: www-data
       mode: 4750
       type:
         - directory
-    - object: /var/vhosts//getexpressive.org/htdocs
+    - object: /var/vhosts/getexpressive.org/htdocs
       pattern: "**"
       owner: www-data
       group: www-data
