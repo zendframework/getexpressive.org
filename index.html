@@ -31,201 +31,23 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="img/expressive_logo_min.png" id="logo"></a>
-
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          Menu
-          <i class="fa fa-bars"></i>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#install">Install</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#features">Features</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#documentation">Documentation</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
-            </li>
-          </ul>
-        </div>
       </div>
     </nav>
 
-		<div id="laminas" class="container-fluid">Zend Framework transitions to the Linux Foundation. <a href="https://getlaminas.org" style="">Learn More.</a></div>
-
-    <header class="masthead">
-      <div class="container h-100">
-        <div class="row h-100">
-          <div class="col-lg-3 my-auto">
-            <div class="header-content mx-auto">
-              <h1 class="">Build PHP microservices and web applications in minutes!</h1>
-              <h3>Fully compliant with <a href="https://www.php-fig.org/psr/psr-15/">PSR-15</a> and <a href="https://www.php-fig.org/psr/psr-7/">PSR-7</a> standards.</h3>
-              <a href="#install" class="btn btn-outline btn-xl js-scroll-trigger">Start Now</a>
-            </div>
-          </div>
-
-          <div class="col-lg-9 my-auto">
-            <asciinema-player src="171540.json" cols="81" rows="25"></asciinema-player>
-          </div>
+    <header class="masthead jumbotron jumbotron-fluid">
+        <div class="container header-content">
+            <div class="container header-content">
+            <h1 class="display-4">Expressive is now Mezzio!</h1>
+            <p class="lead btn-group btn-group-xl" role="group">
+                <a href="https://docs.mezzio.dev" class="btn btn-outline">Start Now</a>
+                <a href="https://getlaminas.org/blog/2019-12-31-out-with-the-old-in-with-the-new.html" class="btn btn-outline">Learn about the transition</a>
+            </p>
         </div>
-      </div>
     </header>
-
-    <section class="download bg-primary text-center" id="install">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-10 mx-auto">
-            <h2 class="section-heading" style="color:white">Install Using Composer</h2>
-
-            <div class="shell-wrap">
-              <p class="shell-top-bar">Run this command in the terminal:</p>
-              <p class="shell-body">$ composer create-project zendframework/zend-expressive-skeleton &lt;path&gt;</p>
-            </div>
-
-            <p><br />where <strong>&lt;path&gt;</strong> is the folder to install.</p>
-
-            <p style="margin-top:20px">If you don't have <strong>Composer</strong>, you can install it for <a href="https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx" style="color:white" target="_blank">Linux / Unix / OSX</a> or <a href="https://getcomposer.org/doc/00-intro.md#installation-windows" style="color:white" target="_blank">Windows</a>.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="features" id="features">
-      <div class="container">
-        <div class="section-heading text-center">
-          <h2>Features</h2>
-          <p><i>Expressive</i> offers multiple features:</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12 my-auto">
-            <div class="container-fluid">
-              <div class="row">
-                  <div class="col-lg-4">
-                    <div class="feature-item">
-                      <i class="icon-layers text-primary"></i>
-                      <h3>PSR-15 and PSR-7</h3>
-                      <p class="text-muted">Create middleware applications, using as many layers as you want! 100% compliant with <a href="https://www.php-fig.org/">PHP-FIG</a> standards.</p>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4">
-                    <div class="feature-item">
-                      <i class="icon-directions text-primary"></i>
-                      <h3>Routing</h3>
-                      <p class="text-muted">Route requests to middleware using the routing library of your choice.</p>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4">
-                    <div class="feature-item">
-                      <i class="icon-organization text-primary"></i>
-                      <h3>Dependency Injection</h3>
-                      <p class="text-muted">Make your code flexible and robust, using the dependency injection container of your choice.</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="row">
-                <div class="col-lg-4">
-                  <div class="feature-item">
-                    <i class="icon-docs text-primary"></i>
-                    <h3>Templating</h3>
-                    <p class="text-muted">Create templated responses, using a variety of template engines: <a href="http://platesphp.com/">Plates</a>, <a href="https://twig.symfony.com/">Twig</a>, <a href="https://docs.zendframework.com/zend-view/">zend-view</a>, and more.</p>
-                  </div>
-                </div>
-
-                <div class="col-lg-4">
-                  <div class="feature-item">
-                    <i class="icon-exclamation text-primary"></i>
-                    <h3>Error handling</h3>
-                    <p class="text-muted">Handle errors gracefully, using templated error pages, <a href="https://filp.github.io/whoops/">whoops</a>, or your own solution!</p>
-                  </div>
-                </div>
-
-                <div class="col-lg-4">
-                  <div class="feature-item">
-                    <i class="icon-lock-open text-primary"></i>
-                    <h3>Open Source</h3>
-                    <p class="text-muted">Released under the <a href="https://framework.zend.com/license">New BSD License</a>, you can use it commercially!</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="documentation bg-primary text-center" id="documentation">
-      <div class="container">
-        <div class="section-heading text-center" style="color:white">
-          <h2>Documentation</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6">
-            <div class="documentation-item">
-              <a href="https://docs.zendframework.com/zend-expressive/v3/getting-started/features/"><i class="icon-screen-smartphone text-primary"></i></a>
-              <h3><a href="https://docs.zendframework.com/zend-expressive/v3/getting-started/features/">Browse documentation online</a></h3>
-            </div>
-          </div>
-
-          <div class="col-lg-6">
-            <div class="documentation-item">
-              <p><a href="http://www.zend.com/phpcookbooks"><img src="/img/expressive-cookbook-sm.jpg" height="300"></a></p>
-              <h3><a href="http://www.zend.com/phpcookbooks">Free ebook!</a></h3>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="contact" id="contact">
-      <div class="section">
-        <h2>Contact us, we
-          <i class="fa fa-heart"></i>
-          our users!</h2>
-        <ul class="list-inline list-social">
-          <li class="list-inline-item social-discourse">
-            <a href="https://discourse.zendframework.com/" title="Forums">
-              <i class="fa fa-comments-o"></i>
-            </a>
-          </li>
-
-          <li class="list-inline-item social-slack">
-            <a href="https://zendframework-slack.herokuapp.com/" title="Slack">
-              <i class="fa fa-slack"></i>
-            </a>
-          </li>
-
-          <li class="list-inline-item social-github">
-            <a href="https://github.com/zendframework/zend-expressive" title="GitHub">
-              <i class="fa fa-github"></i>
-            </a>
-          </li>
-
-          <li class="list-inline-item social-twitter">
-            <a href="https://twitter.com/zfdevteam" title="Twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </section>
 
     <footer>
       <div class="container">
-        <p>&copy; 2016-2018 by <a href="https://www.zend.com/">Zend</a>, a Rogue Wave Company. All Rights Reserved.</p>
-        <a href="https://www.roguewave.com/" title="Rogue Wave Software"><img src="/img/rw-logo.png"></a>
+        <p>&copy; 2016-2020 by <a href="https://www.zend.com/">Zend</a> by Perforce. All Rights Reserved.</p>
       </div>
     </footer>
 

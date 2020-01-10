@@ -14,3 +14,16 @@
     color: #ffffff;
   }
 }
+
+.abandonment {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+}
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
